@@ -4,6 +4,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
         System.out.println("Sample project - Yash");
+        System.out.println("This is my trial");
+        System.out.println("by anjum shaikh");
         System.out.println("2nd trial by Yash");
         System.out.println("Executing the code");
 
